@@ -1,0 +1,16 @@
+{
+  "name": "copenhagen_coders",
+  "version": "1.0.0",
+  "description": "A website for CC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "coding",
+    "webdevelopment"
+  ],
+  "author": "Copenhagen Coders",
+  "license": "ISC"
+}
